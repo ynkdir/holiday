@@ -1,82 +1,82 @@
-en.australian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.australian%23holiday%40group.v.calendar.google.com/public/basic.ics,Australian Holidays,Australian Holidays
-en.austrian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.austrian%23holiday%40group.v.calendar.google.com/public/basic.ics,Austrian Holidays,Austrian Holidays
-en.brazilian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.brazilian%23holiday%40group.v.calendar.google.com/public/basic.ics,Brazilian Holidays,Brazilian Holidays
-en.canadian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.canadian%23holiday%40group.v.calendar.google.com/public/basic.ics,Canadian Holidays,Canadian Holidays
-en.china#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.china%23holiday%40group.v.calendar.google.com/public/basic.ics,China Holidays,China Holidays
-en.christian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.christian%23holiday%40group.v.calendar.google.com/public/basic.ics,Christian Holidays,Christian Holidays
-en.danish#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.danish%23holiday%40group.v.calendar.google.com/public/basic.ics,Danish Holidays,Danish Holidays
-en.dutch#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.dutch%23holiday%40group.v.calendar.google.com/public/basic.ics,Dutch Holidays,Dutch Holidays
-en.finnish#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.finnish%23holiday%40group.v.calendar.google.com/public/basic.ics,Finnish Holidays,Finnish Holidays
-en.french#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.french%23holiday%40group.v.calendar.google.com/public/basic.ics,French Holidays,French Holidays
-en.german#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.german%23holiday%40group.v.calendar.google.com/public/basic.ics,German Holidays,German Holidays
-en.greek#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.greek%23holiday%40group.v.calendar.google.com/public/basic.ics,Greek Holidays,Greek Holidays
-en.hong_kong_c#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.hong_kong_c%23holiday%40group.v.calendar.google.com/public/basic.ics,Hong Kong (C) Holidays,Hong Kong (C) Holidays
-en.hong_kong#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.hong_kong%23holiday%40group.v.calendar.google.com/public/basic.ics,Hong Kong Holidays,Hong Kong Holidays
-en.indian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.indian%23holiday%40group.v.calendar.google.com/public/basic.ics,Indian Holidays,Indian Holidays
-en.indonesian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.indonesian%23holiday%40group.v.calendar.google.com/public/basic.ics,Indonesian Holidays,Indonesian Holidays
-en.iranian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.iranian%23holiday%40group.v.calendar.google.com/public/basic.ics,Iranian Holidays,Iranian Holidays
-en.irish#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.irish%23holiday%40group.v.calendar.google.com/public/basic.ics,Irish Holidays,Irish Holidays
-en.islamic#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.islamic%23holiday%40group.v.calendar.google.com/public/basic.ics,Islamic Holidays,Islamic Holidays
-en.italian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.italian%23holiday%40group.v.calendar.google.com/public/basic.ics,Italian Holidays,Italian Holidays
-en.japanese#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.japanese%23holiday%40group.v.calendar.google.com/public/basic.ics,Japanese Holidays,Japanese Holidays
-en.jewish#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.jewish%23holiday%40group.v.calendar.google.com/public/basic.ics,Jewish Holidays,Jewish Holidays
-en.malaysia#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.malaysia%23holiday%40group.v.calendar.google.com/public/basic.ics,Malaysian Holidays,Malaysian Holidays
-en.mexican#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.mexican%23holiday%40group.v.calendar.google.com/public/basic.ics,Mexican Holidays,Mexican Holidays
-en.new_zealand#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.new_zealand%23holiday%40group.v.calendar.google.com/public/basic.ics,New Zealand Holidays,New Zealand Holidays
-en.norwegian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.norwegian%23holiday%40group.v.calendar.google.com/public/basic.ics,Norwegian Holidays,Norwegian Holidays
-en.philippines#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.philippines%23holiday%40group.v.calendar.google.com/public/basic.ics,Philippines Holidays,Philippines Holidays
-en.polish#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.polish%23holiday%40group.v.calendar.google.com/public/basic.ics,Polish Holidays,Polish Holidays
-en.portuguese#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.portuguese%23holiday%40group.v.calendar.google.com/public/basic.ics,Portuguese Holidays,Portuguese Holidays
-en.russian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.russian%23holiday%40group.v.calendar.google.com/public/basic.ics,Russian Holidays,Russian Holidays
-en.singapore#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.singapore%23holiday%40group.v.calendar.google.com/public/basic.ics,Singapore Holidays,Singapore Holidays
-en.sa#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.sa%23holiday%40group.v.calendar.google.com/public/basic.ics,South Africa Holidays,South Africa Holidays
-en.south_korea#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.south_korea%23holiday%40group.v.calendar.google.com/public/basic.ics,South Korean Holidays,South Korean Holidays
-en.spain#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.spain%23holiday%40group.v.calendar.google.com/public/basic.ics,Spain Holidays,Spain Holidays
-en.swedish#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.swedish%23holiday%40group.v.calendar.google.com/public/basic.ics,Swedish Holidays,Swedish Holidays
-en.taiwan#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.taiwan%23holiday%40group.v.calendar.google.com/public/basic.ics,Taiwan Holidays,Taiwan Holidays
-en.thai#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.thai%23holiday%40group.v.calendar.google.com/public/basic.ics,Thai Holidays,Thai Holidays
-en.uk#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.uk%23holiday%40group.v.calendar.google.com/public/basic.ics,UK Holidays,UK Holidays
-en.usa#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.usa%23holiday%40group.v.calendar.google.com/public/basic.ics,US Holidays,US Holidays
-en.vietnamese#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/en.vietnamese%23holiday%40group.v.calendar.google.com/public/basic.ics,Vietnamese Holidays,Vietnamese Holidays
-ja.irish#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.irish%23holiday%40group.v.calendar.google.com/public/basic.ics,アイルランドの祝日,アイルランドの祝日
-ja.usa#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.usa%23holiday%40group.v.calendar.google.com/public/basic.ics,アメリカの祝日,アメリカの祝日
-ja.uk#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.uk%23holiday%40group.v.calendar.google.com/public/basic.ics,イギリスの祝日,イギリスの祝日
-ja.islamic#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.islamic%23holiday%40group.v.calendar.google.com/public/basic.ics,イスラム教の祝日,イスラム教の祝日
-ja.italian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.italian%23holiday%40group.v.calendar.google.com/public/basic.ics,イタリアの祝日,イタリアの祝日
-ja.indian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.indian%23holiday%40group.v.calendar.google.com/public/basic.ics,インドの祝日,インドの祝日
-ja.indonesian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.indonesian%23holiday%40group.v.calendar.google.com/public/basic.ics,インドネシアの祝日,インドネシアの祝日
-ja.dutch#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.dutch%23holiday%40group.v.calendar.google.com/public/basic.ics,オランダの祝日,オランダの祝日
-ja.australian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.australian%23holiday%40group.v.calendar.google.com/public/basic.ics,オーストラリアの祝日,オーストラリアの祝日
-ja.austrian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.austrian%23holiday%40group.v.calendar.google.com/public/basic.ics,オーストリアの祝日,オーストリアの祝日
-ja.canadian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.canadian%23holiday%40group.v.calendar.google.com/public/basic.ics,カナダの祝日,カナダの祝日
-ja.christian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.christian%23holiday%40group.v.calendar.google.com/public/basic.ics,キリスト教の祝日,キリスト教の祝日
-ja.greek#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.greek%23holiday%40group.v.calendar.google.com/public/basic.ics,ギリシャの祝日,ギリシャの祝日
-ja.singapore#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.singapore%23holiday%40group.v.calendar.google.com/public/basic.ics,シンガポールの祝日,シンガポールの祝日
-ja.swedish#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.swedish%23holiday%40group.v.calendar.google.com/public/basic.ics,スウェーデンの祝日,スウェーデンの祝日
-ja.spain#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.spain%23holiday%40group.v.calendar.google.com/public/basic.ics,スペインの祝日,スペインの祝日
-ja.thai#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.thai%23holiday%40group.v.calendar.google.com/public/basic.ics,タイの祝日,タイの祝日
-ja.danish#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.danish%23holiday%40group.v.calendar.google.com/public/basic.ics,デンマークの祝日,デンマークの祝日
-ja.german#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.german%23holiday%40group.v.calendar.google.com/public/basic.ics,ドイツの祝日,ドイツの祝日
-ja.new_zealand#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.new_zealand%23holiday%40group.v.calendar.google.com/public/basic.ics,ニュージーランドの祝日,ニュージーランドの祝日
-ja.norwegian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.norwegian%23holiday%40group.v.calendar.google.com/public/basic.ics,ノルウェイの祝日,ノルウェイの祝日
-ja.philippines#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.philippines%23holiday%40group.v.calendar.google.com/public/basic.ics,フィリピンの祝日,フィリピンの祝日
-ja.finnish#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.finnish%23holiday%40group.v.calendar.google.com/public/basic.ics,フィンランドの祝日,フィンランドの祝日
-ja.french#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.french%23holiday%40group.v.calendar.google.com/public/basic.ics,フランスの祝日,フランスの祝日
-ja.brazilian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.brazilian%23holiday%40group.v.calendar.google.com/public/basic.ics,ブラジルの祝日,ブラジルの祝日
-ja.vietnamese#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.vietnamese%23holiday%40group.v.calendar.google.com/public/basic.ics,ベトナムの祝日,ベトナムの祝日
-ja.portuguese#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.portuguese%23holiday%40group.v.calendar.google.com/public/basic.ics,ポルトガルの祝日,ポルトガルの祝日
-ja.polish#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.polish%23holiday%40group.v.calendar.google.com/public/basic.ics,ポーランドの祝日,ポーランドの祝日
-ja.malaysia#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.malaysia%23holiday%40group.v.calendar.google.com/public/basic.ics,マレーシアの祝日,マレーシアの祝日
-ja.mexican#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.mexican%23holiday%40group.v.calendar.google.com/public/basic.ics,メキシコの祝日,メキシコの祝日
-ja.jewish#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.jewish%23holiday%40group.v.calendar.google.com/public/basic.ics,ユダヤ教の祝日,ユダヤ教の祝日
-ja.russian#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.russian%23holiday%40group.v.calendar.google.com/public/basic.ics,ロシアの祝日,ロシアの祝日
-ja.china#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.china%23holiday%40group.v.calendar.google.com/public/basic.ics,中国の祝日,中国の祝日
-ja.south_korea#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.south_korea%23holiday%40group.v.calendar.google.com/public/basic.ics,韓国の祝日,韓国の祝日
-ja.sa#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.sa%23holiday%40group.v.calendar.google.com/public/basic.ics,南アフリカの祝日,南アフリカの祝日
-ja.taiwan#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.taiwan%23holiday%40group.v.calendar.google.com/public/basic.ics,台湾の祝日,台湾の祝日
-ja.japanese#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.japanese%23holiday%40group.v.calendar.google.com/public/basic.ics,日本の祝日,日本の祝日
-ja.hong_kong_c#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.hong_kong_c%23holiday%40group.v.calendar.google.com/public/basic.ics,香港(C)の祝日,香港(C)の祝日
-ja.hong_kong#holiday@group.v.calendar.google.com,http://www.google.com/calendar.ical/ja.hong_kong%23holiday%40group.v.calendar.google.com/public/basic.ics,香港の祝日,香港の祝日
+en.australian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.australian%23holiday%40group.v.calendar.google.com/public/basic.ics,Australian Holidays,Australian Holidays
+en.austrian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.austrian%23holiday%40group.v.calendar.google.com/public/basic.ics,Austrian Holidays,Austrian Holidays
+en.brazilian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.brazilian%23holiday%40group.v.calendar.google.com/public/basic.ics,Brazilian Holidays,Brazilian Holidays
+en.canadian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.canadian%23holiday%40group.v.calendar.google.com/public/basic.ics,Canadian Holidays,Canadian Holidays
+en.china#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.china%23holiday%40group.v.calendar.google.com/public/basic.ics,China Holidays,China Holidays
+en.christian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.christian%23holiday%40group.v.calendar.google.com/public/basic.ics,Christian Holidays,Christian Holidays
+en.danish#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.danish%23holiday%40group.v.calendar.google.com/public/basic.ics,Danish Holidays,Danish Holidays
+en.dutch#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.dutch%23holiday%40group.v.calendar.google.com/public/basic.ics,Dutch Holidays,Dutch Holidays
+en.finnish#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.finnish%23holiday%40group.v.calendar.google.com/public/basic.ics,Finnish Holidays,Finnish Holidays
+en.french#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.french%23holiday%40group.v.calendar.google.com/public/basic.ics,French Holidays,French Holidays
+en.german#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.german%23holiday%40group.v.calendar.google.com/public/basic.ics,German Holidays,German Holidays
+en.greek#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.greek%23holiday%40group.v.calendar.google.com/public/basic.ics,Greek Holidays,Greek Holidays
+en.hong_kong_c#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.hong_kong_c%23holiday%40group.v.calendar.google.com/public/basic.ics,Hong Kong (C) Holidays,Hong Kong (C) Holidays
+en.hong_kong#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.hong_kong%23holiday%40group.v.calendar.google.com/public/basic.ics,Hong Kong Holidays,Hong Kong Holidays
+en.indian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.indian%23holiday%40group.v.calendar.google.com/public/basic.ics,Indian Holidays,Indian Holidays
+en.indonesian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.indonesian%23holiday%40group.v.calendar.google.com/public/basic.ics,Indonesian Holidays,Indonesian Holidays
+en.iranian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.iranian%23holiday%40group.v.calendar.google.com/public/basic.ics,Iranian Holidays,Iranian Holidays
+en.irish#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.irish%23holiday%40group.v.calendar.google.com/public/basic.ics,Irish Holidays,Irish Holidays
+en.islamic#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.islamic%23holiday%40group.v.calendar.google.com/public/basic.ics,Islamic Holidays,Islamic Holidays
+en.italian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.italian%23holiday%40group.v.calendar.google.com/public/basic.ics,Italian Holidays,Italian Holidays
+en.japanese#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.japanese%23holiday%40group.v.calendar.google.com/public/basic.ics,Japanese Holidays,Japanese Holidays
+en.jewish#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.jewish%23holiday%40group.v.calendar.google.com/public/basic.ics,Jewish Holidays,Jewish Holidays
+en.malaysia#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.malaysia%23holiday%40group.v.calendar.google.com/public/basic.ics,Malaysian Holidays,Malaysian Holidays
+en.mexican#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.mexican%23holiday%40group.v.calendar.google.com/public/basic.ics,Mexican Holidays,Mexican Holidays
+en.new_zealand#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.new_zealand%23holiday%40group.v.calendar.google.com/public/basic.ics,New Zealand Holidays,New Zealand Holidays
+en.norwegian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.norwegian%23holiday%40group.v.calendar.google.com/public/basic.ics,Norwegian Holidays,Norwegian Holidays
+en.philippines#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.philippines%23holiday%40group.v.calendar.google.com/public/basic.ics,Philippines Holidays,Philippines Holidays
+en.polish#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.polish%23holiday%40group.v.calendar.google.com/public/basic.ics,Polish Holidays,Polish Holidays
+en.portuguese#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.portuguese%23holiday%40group.v.calendar.google.com/public/basic.ics,Portuguese Holidays,Portuguese Holidays
+en.russian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.russian%23holiday%40group.v.calendar.google.com/public/basic.ics,Russian Holidays,Russian Holidays
+en.singapore#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.singapore%23holiday%40group.v.calendar.google.com/public/basic.ics,Singapore Holidays,Singapore Holidays
+en.sa#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.sa%23holiday%40group.v.calendar.google.com/public/basic.ics,South Africa Holidays,South Africa Holidays
+en.south_korea#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.south_korea%23holiday%40group.v.calendar.google.com/public/basic.ics,South Korean Holidays,South Korean Holidays
+en.spain#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.spain%23holiday%40group.v.calendar.google.com/public/basic.ics,Spain Holidays,Spain Holidays
+en.swedish#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.swedish%23holiday%40group.v.calendar.google.com/public/basic.ics,Swedish Holidays,Swedish Holidays
+en.taiwan#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.taiwan%23holiday%40group.v.calendar.google.com/public/basic.ics,Taiwan Holidays,Taiwan Holidays
+en.thai#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.thai%23holiday%40group.v.calendar.google.com/public/basic.ics,Thai Holidays,Thai Holidays
+en.uk#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.uk%23holiday%40group.v.calendar.google.com/public/basic.ics,UK Holidays,UK Holidays
+en.usa#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.usa%23holiday%40group.v.calendar.google.com/public/basic.ics,US Holidays,US Holidays
+en.vietnamese#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/en.vietnamese%23holiday%40group.v.calendar.google.com/public/basic.ics,Vietnamese Holidays,Vietnamese Holidays
+ja.irish#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.irish%23holiday%40group.v.calendar.google.com/public/basic.ics,アイルランドの祝日,アイルランドの祝日
+ja.usa#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.usa%23holiday%40group.v.calendar.google.com/public/basic.ics,アメリカの祝日,アメリカの祝日
+ja.uk#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.uk%23holiday%40group.v.calendar.google.com/public/basic.ics,イギリスの祝日,イギリスの祝日
+ja.islamic#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.islamic%23holiday%40group.v.calendar.google.com/public/basic.ics,イスラム教の祝日,イスラム教の祝日
+ja.italian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.italian%23holiday%40group.v.calendar.google.com/public/basic.ics,イタリアの祝日,イタリアの祝日
+ja.indian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.indian%23holiday%40group.v.calendar.google.com/public/basic.ics,インドの祝日,インドの祝日
+ja.indonesian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.indonesian%23holiday%40group.v.calendar.google.com/public/basic.ics,インドネシアの祝日,インドネシアの祝日
+ja.dutch#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.dutch%23holiday%40group.v.calendar.google.com/public/basic.ics,オランダの祝日,オランダの祝日
+ja.australian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.australian%23holiday%40group.v.calendar.google.com/public/basic.ics,オーストラリアの祝日,オーストラリアの祝日
+ja.austrian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.austrian%23holiday%40group.v.calendar.google.com/public/basic.ics,オーストリアの祝日,オーストリアの祝日
+ja.canadian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.canadian%23holiday%40group.v.calendar.google.com/public/basic.ics,カナダの祝日,カナダの祝日
+ja.christian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.christian%23holiday%40group.v.calendar.google.com/public/basic.ics,キリスト教の祝日,キリスト教の祝日
+ja.greek#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.greek%23holiday%40group.v.calendar.google.com/public/basic.ics,ギリシャの祝日,ギリシャの祝日
+ja.singapore#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.singapore%23holiday%40group.v.calendar.google.com/public/basic.ics,シンガポールの祝日,シンガポールの祝日
+ja.swedish#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.swedish%23holiday%40group.v.calendar.google.com/public/basic.ics,スウェーデンの祝日,スウェーデンの祝日
+ja.spain#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.spain%23holiday%40group.v.calendar.google.com/public/basic.ics,スペインの祝日,スペインの祝日
+ja.thai#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.thai%23holiday%40group.v.calendar.google.com/public/basic.ics,タイの祝日,タイの祝日
+ja.danish#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.danish%23holiday%40group.v.calendar.google.com/public/basic.ics,デンマークの祝日,デンマークの祝日
+ja.german#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.german%23holiday%40group.v.calendar.google.com/public/basic.ics,ドイツの祝日,ドイツの祝日
+ja.new_zealand#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.new_zealand%23holiday%40group.v.calendar.google.com/public/basic.ics,ニュージーランドの祝日,ニュージーランドの祝日
+ja.norwegian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.norwegian%23holiday%40group.v.calendar.google.com/public/basic.ics,ノルウェイの祝日,ノルウェイの祝日
+ja.philippines#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.philippines%23holiday%40group.v.calendar.google.com/public/basic.ics,フィリピンの祝日,フィリピンの祝日
+ja.finnish#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.finnish%23holiday%40group.v.calendar.google.com/public/basic.ics,フィンランドの祝日,フィンランドの祝日
+ja.french#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.french%23holiday%40group.v.calendar.google.com/public/basic.ics,フランスの祝日,フランスの祝日
+ja.brazilian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.brazilian%23holiday%40group.v.calendar.google.com/public/basic.ics,ブラジルの祝日,ブラジルの祝日
+ja.vietnamese#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.vietnamese%23holiday%40group.v.calendar.google.com/public/basic.ics,ベトナムの祝日,ベトナムの祝日
+ja.portuguese#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.portuguese%23holiday%40group.v.calendar.google.com/public/basic.ics,ポルトガルの祝日,ポルトガルの祝日
+ja.polish#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.polish%23holiday%40group.v.calendar.google.com/public/basic.ics,ポーランドの祝日,ポーランドの祝日
+ja.malaysia#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.malaysia%23holiday%40group.v.calendar.google.com/public/basic.ics,マレーシアの祝日,マレーシアの祝日
+ja.mexican#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.mexican%23holiday%40group.v.calendar.google.com/public/basic.ics,メキシコの祝日,メキシコの祝日
+ja.jewish#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.jewish%23holiday%40group.v.calendar.google.com/public/basic.ics,ユダヤ教の祝日,ユダヤ教の祝日
+ja.russian#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.russian%23holiday%40group.v.calendar.google.com/public/basic.ics,ロシアの祝日,ロシアの祝日
+ja.china#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.china%23holiday%40group.v.calendar.google.com/public/basic.ics,中国の祝日,中国の祝日
+ja.south_korea#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.south_korea%23holiday%40group.v.calendar.google.com/public/basic.ics,韓国の祝日,韓国の祝日
+ja.sa#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.sa%23holiday%40group.v.calendar.google.com/public/basic.ics,南アフリカの祝日,南アフリカの祝日
+ja.taiwan#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.taiwan%23holiday%40group.v.calendar.google.com/public/basic.ics,台湾の祝日,台湾の祝日
+ja.japanese#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.japanese%23holiday%40group.v.calendar.google.com/public/basic.ics,日本の祝日,日本の祝日
+ja.hong_kong_c#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.hong_kong_c%23holiday%40group.v.calendar.google.com/public/basic.ics,香港(C)の祝日,香港(C)の祝日
+ja.hong_kong#holiday@group.v.calendar.google.com,https://www.google.com/calendar.ical/ja.hong_kong%23holiday%40group.v.calendar.google.com/public/basic.ics,香港の祝日,香港の祝日
 argentina@calendar.live.com,https://calendar.calendar.live.com/calendar/D%C3%ADas%20festivos%20de%20Argentina/calendar.ics,Argentina,Días festivos de Argentina
 australia@calendar.live.com,https://calendar.calendar.live.com/calendar/Australia+Holidays/calendar.ics,Australia,Australia Holidays
 austria_german@calendar.live.com,https://calendar.calendar.live.com/calendar/Feiertage%20in%20%C3%96sterreich/calendar.ics,Austria (German),Feiertage in Österreich
